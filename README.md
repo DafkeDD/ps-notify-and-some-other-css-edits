@@ -10,11 +10,11 @@ https://github.com/tnj-development/tnj-notify will be updated
 
 # Drawtext 
 
-images 
+Images 
 
 ![image](https://user-images.githubusercontent.com/76920136/168768091-194e130e-67b1-4c85-b3ca-86530adb2330.png)
 
-when pressed
+When pressed
 
 
 ![image](https://user-images.githubusercontent.com/76920136/168768152-addb2e3a-86f4-4353-8152-db5be66678c3.png)
