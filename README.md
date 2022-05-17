@@ -9,6 +9,7 @@ https://github.com/tnj-development/tnj-notify will be updated
 
 
 # Drawtext 
+If you want to look more accurate remove border-radius: 0.2em; from .text
 
 Images 
 
