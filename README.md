@@ -1,9 +1,10 @@
-# ps-notify and drawtext (qb-core) - NoPixel Inspired
+# css Changes for QBCore Scripts - NoPixel Inspired
 
-Installation Guide For ALl Scripts Here!
+Installation Guide For All Scripts Here!
 
 https://github.com/tnj-development/tnj-notify will be updated 
 https://github.com/Project-Sloth/progressbar
+https://github.com/qbcore-framework/qb-doorlock
 
 # ps-notify (The colors are not 100% accurate!)
 
@@ -12,6 +13,16 @@ https://github.com/Project-Sloth/progressbar
 # progressbar (The colors are not 100% accurate!)
 
 ![image](https://i.imgur.com/09nqjt4.jpeg)
+
+# qb-doorlock
+
+* Ensure that you go into qb-doorlock/config.lua and set Config.ChangeColor to true.
+
+## Locked
+![image](https://i.imgur.com/kP3I2FM.png)
+
+## Unlocked
+![image](https://i.imgur.com/x61ISru.png)
 
 # Drawtext 
 If you want to look more accurate remove border-radius: 0.2em; from .text
