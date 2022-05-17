@@ -10,7 +10,7 @@ Installation Guide For All Scripts Here!
 
 ![image](https://user-images.githubusercontent.com/76920136/168729052-cb669845-0dfd-4aae-b1b5-5260affa4702.png)
 
-# progressbar With mine css and help for the alignment from xViperAG#3029
+# Progressbar with mine css edit and help for the alignment from xViperAG#3029
 
 ![image](https://i.imgur.com/09nqjt4.jpeg)
 
