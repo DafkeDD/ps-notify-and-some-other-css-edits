@@ -1,7 +1,6 @@
 # ps-notify-CSS-Edit to look like Nopixel
 
-you can see the instalation guide from #ps-notify link 
-
+you can see the instalation guide from here
 https://github.com/tnj-development/tnj-notify will be updated 
 
 # ps-notify (The colors are not the right ones!)
