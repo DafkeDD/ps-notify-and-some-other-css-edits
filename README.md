@@ -8,7 +8,7 @@ https://github.com/tnj-development/tnj-notify will be updated
 
 #ps-notify (The colors are not the right ones!)
 
-![image](https://user-images.githubusercontent.com/76920136/168722112-a0b14446-4f6a-4918-83df-552316b5f96f.png)
+![image](https://user-images.githubusercontent.com/76920136/168724140-1ce50cf5-2123-43aa-964b-c47ae6c214c3.png)
 
 #qb-drawtext(qb-core)
 
