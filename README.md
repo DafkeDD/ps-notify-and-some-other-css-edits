@@ -17,6 +17,9 @@ Installation Guide For All Scripts Here!
 # Progressbar with np styled css
 ![image](https://user-images.githubusercontent.com/76920136/168878386-7d653d49-cf10-4d21-88ea-261fdec48965.png)
 
+# Progressbar with css edit from </mahone>#3333
+https://cdn.discordapp.com/attachments/976036469267398686/976067746880188446/unknown-2.png
+
 # qb-doorlock
 
 * Ensure that you go into qb-doorlock/config.lua and set Config.ChangeColor to true.
