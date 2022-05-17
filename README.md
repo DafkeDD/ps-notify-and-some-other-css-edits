@@ -2,9 +2,9 @@
 
 Installation Guide For All Scripts Here!
 
-https://github.com/tnj-development/tnj-notify will be updated 
-https://github.com/Project-Sloth/progressbar
-https://github.com/qbcore-framework/qb-doorlock
+* https://github.com/tnj-development/tnj-notify will be updated 
+* https://github.com/Project-Sloth/progressbar
+* https://github.com/qbcore-framework/qb-doorlock
 
 # ps-notify (The colors are not 100% accurate!)
 
