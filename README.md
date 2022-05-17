@@ -8,7 +8,7 @@ Installation Guide For All Scripts Here!
 
 # ps-notify (The colors are not 100% accurate!)
 
-![image](https://user-images.githubusercontent.com/76920136/168729052-cb669845-0dfd-4aae-b1b5-5260affa4702.png)
+![image](https://user-images.githubusercontent.com/76920136/168886416-e8559dd8-5442-47fb-bfec-4401243c67b4.png)
 
 # Progressbar with mine css edit and help for the alignment from xViperAG#3029
 
