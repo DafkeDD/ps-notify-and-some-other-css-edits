@@ -6,7 +6,7 @@ ps-notify link
 
 https://github.com/tnj-development/tnj-notify will be updated 
 
-#ps-notify (success color is not the right one!)
+#ps-notify (The colors are not the right ones!)
 
 ![image](https://user-images.githubusercontent.com/76920136/168722112-a0b14446-4f6a-4918-83df-552316b5f96f.png)
 
