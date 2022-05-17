@@ -1,0 +1,44 @@
+body {
+    background-color: transparent !important;
+}
+
+.template, .notification {
+    display: none;
+}
+
+.notif-container {
+    width: 20%;
+    position: absolute;
+    right: 15%;
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+}
+
+.notification {
+    margin:6px;
+    font: caption;
+    padding:8px;
+    /* border-left: 2px solid rgba(0, 0, 0, 0.3); */
+    border-bottom: 3px solid rgba(0, 0, 0, 0.3);
+    border-right: 2px solid rgba(0, 0, 0, 0.3);
+    border-radius:4.2px;
+    font-weight:bold;
+    font-size:12px;
+    display:inline-block;
+}
+
+.success {
+    background: rgba(35, 190, 151, 0.80);
+    color: #fff;
+}
+
+.primary {
+    background-color: rgba(96, 165, 228, 0.80);
+    color: #ffffff;
+}
+
+.error {
+    background: rgba(123, 44, 33, 0.80);
+    color: #fff;
+}
