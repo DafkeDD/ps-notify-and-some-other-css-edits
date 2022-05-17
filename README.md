@@ -18,7 +18,7 @@ Installation Guide For All Scripts Here!
 
 ![image](https://user-images.githubusercontent.com/76920136/168878386-7d653d49-cf10-4d21-88ea-261fdec48965.png)
 
-# Progressbar with css edit from mahone#3333
+# Progressbar with css and js edit from mahone#3333
 
 ![unknown (1)](https://user-images.githubusercontent.com/76920136/168884504-ea1cbc4d-679c-4358-9158-def1e663fbab.png)
 
