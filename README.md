@@ -14,6 +14,9 @@ Installation Guide For All Scripts Here!
 
 ![image](https://i.imgur.com/09nqjt4.jpeg)
 
+# Progressbar with np styled css
+![image](https://user-images.githubusercontent.com/76920136/168878386-7d653d49-cf10-4d21-88ea-261fdec48965.png)
+
 # qb-doorlock
 
 * Ensure that you go into qb-doorlock/config.lua and set Config.ChangeColor to true.
