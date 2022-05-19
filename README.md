@@ -16,7 +16,7 @@ Installation Guide For All Scripts Here!
 
 # Progressbar with np styled css 
 if you want to use this one you have to remove this line from index.html 
-<!-- <span class="icon"><i class="fa-solid fa-bars-progress"></i></span> -->
+<span class="icon"><i class="fa-solid fa-bars-progress"></i></span>
 
 ![image](https://user-images.githubusercontent.com/76920136/168878386-7d653d49-cf10-4d21-88ea-261fdec48965.png)
 
